@@ -2,6 +2,9 @@ body{
     background-color: var(--dark-10);
     font-family: "Inter",sans-serif;
 }
+h1,h2{
+    font-family: "Space Grotesk";
+}
 .container{
     margin: 0 auto;
     padding: 0 24px;
