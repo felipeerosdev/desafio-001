@@ -16,3 +16,12 @@ h1,h2{
         padding: 0 32px;
     }
 }
+section{
+    padding-top: 40px;
+}
+section div.card{
+    border: 2px solid var(--dark-40);
+}
+div.like span{
+    color
+}
