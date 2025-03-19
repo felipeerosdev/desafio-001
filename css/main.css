@@ -2,3 +2,6 @@ body{
     background-color: var(--dark-10);
     font-family: "Inter",sans-serif;
 }
+.container{
+    margin: auto;
+}
