@@ -17,11 +17,32 @@ h1,h2{
     }
 }
 section{
+    display: flex;
+    flex-direction: column;
+    gap: 40px;
     padding-top: 40px;
 }
 section div.card{
     border: 2px solid var(--dark-40);
+    border-radius: 8px;
+    padding: 32px 24px;
+    width: 327px;
+    height: 330px;
+}
+div.like{
+    display: flex;
+    padding-bottom: 20px;
 }
 div.like span{
-    
+    color: var(--brand-color);
+    font-size: 12px;
+}
+div.content-card h2{
+    color: var(--white);
+    font-size: 20px;
+    padding-bottom: 16px;
+}
+div.content-card p{
+    color: var(--grey);
+    /* font-size: 14px; */
 }
