@@ -25,6 +25,9 @@ header input{
 header input::placeholder{
     color: var(--grey);
 }
+header input:focus{
+    outline: 2px solid var(--brand-color);
+}
 @media(min-width:48rem){/*768px*/
     h1{
         font-size: 40px;
