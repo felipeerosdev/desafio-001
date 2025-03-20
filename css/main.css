@@ -20,7 +20,7 @@ section{
     display: flex;
     flex-direction: column;
     gap: 40px;
-    padding: 40px 0 40PX 0;
+    /* padding: 40px 0 40px 0; */
 }
 section div.card{
     border: 2px solid var(--dark-40);
@@ -38,7 +38,6 @@ div.like span{
     color: var(--brand-color);
     font-size: 12px;
 }
-div.like 
 div.content-card h2{
     color: var(--white);
     font-size: 20px;
