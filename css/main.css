@@ -74,5 +74,17 @@ div.content-card h2{
 }
 div.content-card p{
     color: var(--grey);
-    /* font-size: 14px; */
+}
+@media(min-width:48rem){/*768px*/
+    section{
+        padding: 56px 0 56px 0;
+    }
+    section div.card{
+        width: 704px;
+        height: 248px;
+        padding: 40px;
+    }
+    div.like{
+        padding-bottom: 24px;
+    }
 }
