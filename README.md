@@ -4,7 +4,7 @@
 Este repositório contém a solução para o **Desafio 001**. O objetivo do desafio é [breve descrição do objetivo do desafio].
 
 ## Layout
-![Imagem do Layout](assets/img/page-login-tablet)
+![Imagem do Layout](assets/img/page-login-tablet.png)
 
 ## Tecnologias Utilizadas
 - [Linguagem ou framework principal]
