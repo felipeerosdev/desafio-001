@@ -1,16 +1,16 @@
 # Desafio 001
 
 ## Descrição
-
 Este repositório contém a solução para o **Desafio 001**. O objetivo do desafio é [breve descrição do objetivo do desafio].
 
-## Tecnologias Utilizadas
+## Layout
+![Imagem do Layout](assets/img/page-login-mobile)
 
+## Tecnologias Utilizadas
 - [Linguagem ou framework principal]
 - [Outras ferramentas ou bibliotecas relevantes]
 
 ## Como Executar
-
 Siga os passos abaixo para configurar e executar o projeto:
 
 1. Clone o repositório:
@@ -31,7 +31,6 @@ Siga os passos abaixo para configurar e executar o projeto:
    ```
 
 ## Estrutura do Projeto
-
 ```
 /desafio-001
 ├── src/                # Código-fonte principal
@@ -43,17 +42,13 @@ Siga os passos abaixo para configurar e executar o projeto:
 ```
 
 ## Testes
-
 Para executar os testes automatizados, utilize o seguinte comando:
-
 ```sh
 [comando para rodar os testes]
 ```
 
 ## Contribuição
-
 Se desejar contribuir com este projeto:
-
 1. Faça um fork do repositório.
 2. Crie uma nova branch com sua feature ou correção:
    ```sh
@@ -70,16 +65,10 @@ Se desejar contribuir com este projeto:
 5. Abra um Pull Request.
 
 ## Contato
-
 Caso tenha dúvidas ou sugestões, sinta-se à vontade para entrar em contato:
-
 - **Felipe Eros**
 - GitHub: [@felipeerosdev](https://github.com/felipeerosdev)
-- Email: [seu-email-aqui]
 
 ---
 
-Feito com por Anderson Felipe 🚀
-
-
-
+Feito por Anderson Felipe 🚀
