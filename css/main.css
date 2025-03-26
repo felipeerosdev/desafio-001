@@ -7,14 +7,17 @@ h1,h2{
 }
 .container{
     margin: 0 auto;
-    padding: 0 24px;
     max-width: 1250px;
     width: 100%;
 }
+.wrapper{
+    padding: 0 24px;
+    margin: 0 auto;
+}
 @media(min-width:48rem){
-    .container{
-        padding: 0 32px;
-    }
+    .wrapper{
+    padding: 0 32px;
+}
 }
 section{
     display: flex;
